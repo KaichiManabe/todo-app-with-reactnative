@@ -3,7 +3,9 @@
 ## アプリの概要
 
 React Nativeで作ったtodoアプリです。
+
 Youtubeの動画を参考にして開発しました。　(https://youtu.be/VhiH1votwm8?feature=shared)
+
 todoの追加と編集、削除が可能です。
 
 ## このアプリを使うために
